@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pinecone-client
+pypdf2
+pandas
+numpy
+transformers
+accelerate
+huggingface_hub[cli]
+bitsandbytes
+torch
